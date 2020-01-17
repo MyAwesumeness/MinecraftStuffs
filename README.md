@@ -4,10 +4,10 @@ Hey! Thanks For Downloading My Files! If You Plan To Use This In Any Kind Of You
 
 How To Use:
 1. Make Sure You Have Java Installed.
-2. Double Click The exe File And Type In The Location Of Your options.txt file
+2. Run The Jar File And Type In The Location Of Your options.txt file
    It Should Be SomeThing Along The Lines Of C:\\User\\NAME\\AppData\\Roaming\\.minecraft\\options.txt
    **NOTE**
-   The Path Must Have Two Backslashes Or Else Java Will Not Take The FilePath
+   The Path Must Have Two Backslashes Between Each Folder Like Shown Above Or Else Java Will Not Take The FilePath
 3. The New File Will Be Created On Your Desktop 
 4. Move The Original options.txt To A Safe Place
 5. Move The Newely Created File To Your .minecraft Folder
